@@ -38,7 +38,6 @@
 		padding-top:16%;
 	}
 	body {
-		//background: url(http://www.bath.ac.uk/psychology/images/iStock-525212970-16-9.jpg);
 		background-size: 1800px;
 	}
 	
@@ -105,7 +104,7 @@
 		<div class="imagem-o"></div>
 		<div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
 			<div class="container-fluid">
-				<a href="/office"><img src="img/logo-empresas_.png" alt="Logo SOFIA" clas="emManaus" align="top" style="height: 94px;">	</a>
+				<a href="/office"><img src="img/logo-empresas_.png" alt="Logo " clas="emManaus" align="top" style="height: 94px;">	</a>
 				<h2>Login</h2>
 				<form action="validacao.php" method="post">
 					<fieldset><br>
